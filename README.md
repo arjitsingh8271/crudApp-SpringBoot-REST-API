@@ -12,7 +12,7 @@ No need to create table, It will automatically created by the application.
 - **GET** *(Read)* <https://localhost:8080/users> *(get all users)*
 - **GET** *(Read)* <https://localhost:8080/users/1221> *(get user by id)*
 - **POST** *(Create)* <https://localhost:8080/users/add> *(create user)*
-    Body > raw > JSON >
+    - Body > raw > JSON >
     ```
     {
         "name": "Rahul"
