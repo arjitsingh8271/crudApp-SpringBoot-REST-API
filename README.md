@@ -9,9 +9,9 @@
 No need to create table, It will automatically created by the application.
 
 ## Postman:
-- **GET** (Read) <https://localhost:8080/users> (get all users)
-- **GET** (Read) <https://localhost:8080/users/1221> (get user by id)
-- **POST** (Create) <https://localhost:8080/users/add> (create user)
+- **GET** *(Read)* <https://localhost:8080/users> *(get all users)*
+- **GET** *(Read)* <https://localhost:8080/users/1221> *(get user by id)*
+- **POST** *(Create)* <https://localhost:8080/users/add> *(create user)*
     Body > raw > JSON >
     ```
     {
@@ -19,5 +19,5 @@ No need to create table, It will automatically created by the application.
         "email": "rahul@gmail.com"
     }
     ```
-- **PUT** (Update) <https://localhost:8080/users/update/1224> (update user by id)
-- **DELETE** (Delete) <https://localhost:8080/users/delete/1222> (delete user by id)
+- **PUT** *(Update)* <https://localhost:8080/users/update/1224> *(update user by id)*
+- **DELETE** *(Delete)* <https://localhost:8080/users/delete/1222> *(delete user by id)*
