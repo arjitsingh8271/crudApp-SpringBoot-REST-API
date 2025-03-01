@@ -9,7 +9,7 @@
 No need to create table, It will automatically created by the application.
 
 ## Postman:
-- **GET** (Read) *localhost:8080/users* (get all users)
+- **GET** (Read) <localhost:8080/users> (get all users)
 - **GET** (Read) *localhost:8080/users/1221* (get user by id)
 - **POST** (Create) *localhost:8080/users/add* (create user)
     Body > raw > JSON >
